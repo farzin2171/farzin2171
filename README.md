@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello, My name is Farzin! 👋
 
-<!--
-**farzin2171/farzin2171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate .NET developer with a keen interest in distributed systems. Currently, I'm technical leas at Equisof.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+- .NET Core
+- ASP.NET
+- Identity Gateway
+- 
+
+## 🌱 I'm currently learning
+
+-
+
+## 🚀 Projects
+
+Here are a few projects I'm proud of:
+
+
+
+## 💼 Experience
+
+
+
+## 📫 How to reach me
+
+- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+- Twitter: [Your Twitter Profile](link-to-twitter)
+
+## 🌐 My Personal Website
+
+[Your Personal Website](link-to-website)
+
+## 🤝 Let's connect!
+
+I'm always open to collaborating on new projects or discussing innovative ideas. Feel free to reach out to me!
+
+[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+
+⭐️ From [Your Name](link-to-github-profile)
